@@ -27,7 +27,6 @@ The following libraries are required for Task 2:
 - `torch` 
 - `matplotlib` 
 - `random` 
-- `sklearn` 
 
 
 
