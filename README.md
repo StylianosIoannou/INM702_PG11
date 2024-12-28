@@ -1,4 +1,4 @@
-# INM702_PG11# Programming and Mathematics for Artificial Intelligence: INM702
+# INM702_PG11 # Programming and Mathematics for Artificial Intelligence: INM702
 
 ## Authors
 - Stylianos Ioannou
